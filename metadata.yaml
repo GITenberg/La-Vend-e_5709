@@ -1,0 +1,34 @@
+_repo: La-Vend-e_5709
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: 'Trollope''s third novel, and his only excursion into historical fiction,
+  takes place during the French Revolution. Agatha de Larochejacquelin has two suitors:
+  an aristocrat and a revolutionary peasant leader. The latter, ironically, is killed
+  while fighting for the very restructuring of society that would have permitted him
+  to marry an upper-class woman like Agatha. In this uncharacteristically violent
+  novel, Trollope reveals more sympathy with the Royalist cause than with the revolutionaries.'
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Vendée (France) -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Historical fiction'
+- !lcsh 'France -- History -- Wars of the Vendée, 1793-1832 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: La Vendée
+url: http://www.gutenberg.org/ebooks/5709
