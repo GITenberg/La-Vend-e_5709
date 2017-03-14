@@ -1,5 +1,8 @@
 _repo: La-Vend-e_5709
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -14,6 +17,8 @@ description: 'Trollope''s third novel, and his only excursion into historical fi
   while fighting for the very restructuring of society that would have permitted him
   to marry an upper-class woman like Agatha. In this uncharacteristically violent
   novel, Trollope reveals more sympathy with the Royalist cause than with the revolutionaries.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5709#La-Vend-e
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
